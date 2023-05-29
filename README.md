@@ -1,5 +1,5 @@
-# curso digital git
+# Curso digital git
 
-## gravando mudanças no repositório
+## Gravando mudanças no repositório
 
-## título secundário
+## Título secundário
